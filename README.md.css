@@ -1,1 +1,3 @@
-
+.no-anchor-icon::before {
+  content: none;
+}
