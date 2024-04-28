@@ -6,3 +6,5 @@
   <h4>I'm Also Wordpress Website Developer</h4>
 </div>
 <div align="center"><h1>Always practicing and eager to learn more</h1></div>
+
+<h1 class="no-anchor-icon">Your Heading Here</h1>
