@@ -1,5 +1,5 @@
 ---
-<link rel="stylesheet" href="README.md.css">
+<link rel="stylesheet" href="./README.md.css">
 ---
 
 <div id="header" align="center"><img src="https://github.com/nawaf-alrashed/nawaf-alrashed/assets/149557981/0f9c526f-5444-4712-8320-4b933b1ee797" width="30%"></div>
