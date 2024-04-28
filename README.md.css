@@ -1,3 +1,6 @@
 .no-anchor-icon::before {
   content: none;
 }
+h1{
+  color: red;
+}
