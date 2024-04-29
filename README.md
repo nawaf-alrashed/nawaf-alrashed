@@ -9,4 +9,5 @@
 <div align="center" block="inline-block">
   <img width="10%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
   <img width="10%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
+  <img width="10%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png">
 </div>
