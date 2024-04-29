@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nawaf-alrashed/nawaf-alrashed/assets/149557981/0f9c526f-5444-4712-8320-4b933b1ee797" width="30%">
+  <img src="https://github.com/nawaf-alrashed/nawaf-alrashed/assets/149557981/01b3317a-1ee0-4cdd-88bb-f631d36cb56b" width="30%">
   <h3>Hello, I’m Nawaf</h3>
   <h4>I’m interested in HTML, CSS, JS</h4>
   <h4>I’m currently learning JS And Practicing HTML & CSS</h4>
