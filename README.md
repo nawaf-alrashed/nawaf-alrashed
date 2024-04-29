@@ -7,7 +7,7 @@
   <h5>Always practicing and eager to learn more</h5>
 </div>
 <div align="center" block="inline-block">
-  <img width="10%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
-  <img width="10%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
-  <img width="10%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png">
+  <img width="10%" src="https://github.com/nawaf-alrashed/nawaf-alrashed/assets/149557981/0d28014d-a1d1-4132-b771-8853e578b26d">
+  <img width="10%" src="https://github.com/nawaf-alrashed/nawaf-alrashed/assets/149557981/34827037-a229-4741-bfdf-634c917d5e58">
+  <img width="10%" src="https://github.com/nawaf-alrashed/nawaf-alrashed/assets/149557981/02b0f4ba-16a0-411c-8063-fbbbbf2a509f">
 </div>
