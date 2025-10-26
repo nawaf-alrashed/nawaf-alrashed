@@ -4,7 +4,7 @@
   <h3>Hello, I’m Nawaf</h3>
   <h4>I’m interested in HTML, CSS, JS</h4>
   <h4>I’m currently learning JS And Practicing HTML & CSS</h4>
-  <h4>I'm Also a Wordpress Website Developer</h4>
+  <h4>I'm Also a Wordpress/Shopify Website Developer</h4>
   <h5>Always practicing and eager to learn more</h5>
 </div>
 <div align="center" block="inline-block">
